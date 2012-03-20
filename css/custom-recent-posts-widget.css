@@ -1,0 +1,30 @@
+/*
+For Version 1.0
+*/
+
+.custom_recent_posts_widget * {
+  margin: 0;
+	padding: 0;
+}
+.custom_recent_posts_widget {
+	font-size: 12px;	
+	line-height: 18px;
+}
+
+.custom_recent_posts_widget .post-title{
+	font-size: 12px;	
+        font-weight: normal;
+}
+
+.custom_recent_posts_widget ul li{
+	list-style: none;
+	list-style-type: none;
+	margin: 3px 0;
+	padding: 3px 0;
+	border-bottom:1px solid #EEEEEE;
+}
+
+.custom_recent_posts_widget .post-entry{ 
+   padding: 0 0 5px 0;
+   overflow: hidden;
+}
