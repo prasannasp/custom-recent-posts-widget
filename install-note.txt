@@ -1,0 +1,1 @@
+If you've downloaded the source as zipball/tarball from github, rename the folder as "custom-recent-posts-widget" (without double quotes) and upload to `/wp-content/plugins` directory. Otherwise, plugin will not work.
