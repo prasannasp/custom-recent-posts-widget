@@ -3,7 +3,7 @@ Contributors: prasannasp
 Donate link: http://www.prasannasp.net/
 Tags: recent posts, category, categories, widget, post list, exclude, include
 Requires at least: 3.2.1
-Tested up to: 3.3.1
+Tested up to: 3.3.2
 Stable tag: 1.0
 
 Show a list of recent post from the categories you choose.
